@@ -1,6 +1,6 @@
 class PagesController <ApplicationController
-    def home
+    def zebra
 
-    render({ :template => "pages_templates/home"})
+    render({ :template => "pages_templates/giraffe"})
     end
   end
